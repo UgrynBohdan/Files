@@ -4179,7 +4179,7 @@
   "buffers": [
     {
       "byteLength": 1139836,
-      "uri": "scene.bin"
+      "uri": "model.gltf"
     }
   ],
   "extensionsUsed": [
